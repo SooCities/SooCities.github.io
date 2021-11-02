@@ -11,7 +11,7 @@ city_short: rsl
 layout: project
 ---
 
-<iframe width="100%" height="512" src="https://www.youtube-nocookie.com/embed/SiLQofd-Tzw" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="100%" height="500" src="https://www.youtube-nocookie.com/embed/SiLQofd-Tzw" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 Manoeuvres is an artistic project, site-specific, that intervenes in old urban industrial spaces through image and sound. The artists will "listen" to the space of the old factories, and reclaim the story of the productive masses. It is not a nostalgic action, or a revision of past times, it is about inserting temporality, incorporating the past as one more layer to the collective story. The aim is to print the memory imprint of work in the white cube of the artistic space, and to question its neutrality during the process.
 
