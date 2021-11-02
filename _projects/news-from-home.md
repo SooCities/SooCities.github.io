@@ -1,7 +1,7 @@
 ---
 project_name: News from Home
 project_author: Anne Fehres and Luke Conroy
-project_thumb: bcn-nfh-0.png
+project_thumb: bcn-nfh-0.jpg
 project_images: 
 
 project_short: nfh
@@ -15,8 +15,7 @@ redirect_from:
 - /BCN/news_from_home/
 ---
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1331753695&color=%23ff5500&auto_play=true&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/soocities" title="SooC" target="_blank" style="color: #cccccc; text-decoration: none;">SooC</a> · <a href="https://soundcloud.com/soocities/sets/sant-andreu-barcelona" title="Sant Andreu, Barcelona" target="_blank" style="color: #cccccc; text-decoration: none;">Sant Andreu, Barcelona</a></div>
-
+<iframe width="100%" height="425" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1340146714&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/news_from_home" title="News From Home" target="_blank" style="color: #cccccc; text-decoration: none;">News From Home</a> · <a href="https://soundcloud.com/news_from_home/sets/sounds-of-our-cities" title="Sounds of Our Cities" target="_blank" style="color: #cccccc; text-decoration: none;">Sounds of Our Cities</a></div>
 
 *News From Home* is a project by the artist duo Anne Fehres and Luke Conroy, capturing overlooked stories from communities. The eighth edition of this project took place in the district of Sant Andreu in Barcelona, as part of the ‘Sounds of Our Cities project.
 
