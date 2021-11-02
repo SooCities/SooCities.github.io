@@ -16,7 +16,7 @@ Madaula’s point of departure is the bouquet of flowers that his father first c
 
 Students from the master’s degree course in Sound Art (UB) hosted by Josep Cerdà, Josep Manuel Berenguer and Antonio Alcalde, the master’s degree course in Research in Art and Design (Eina UAB), and the Creation Workshop course, part of the degree in Fine Arts (UB), participated in the Voices project (part of the curatorial research).
 
-<iframe src="https://player.vimeo.com/video/641631399?h=2314ed16f4&color=f28628" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/641631399?h=2314ed16f4&color=f28628" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/641631399">Watch "To plant a flying garden (2021)"</a> from <a href="https://vimeo.com/user16473305">Mart&iacute; Madaula Esquirol</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ##### Bio
