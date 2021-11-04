@@ -17,8 +17,7 @@ The materials he gathers from these simple exer­cises will form the basis of hi
 
 <iframe width="100%" height="666" src="https://aporee.org/maps/work/projects.php?project=soocroeselare"></iframe>
 
-#### 
-
+<!--- Preserve space --->
 ##### Bio
 John Grzinich has worked since the early 1990s as an artist and cultural coordinator, using various practices which include and often combine sound moving image, site-specificity, and collaborative social structures. He has performed and exhibited in North/South America, Europe and Japan, and his compositions have been published by a host of international labels. The focus of his work in recent years has been to combine sound and listening practices with various media to challenge age-old anthropocentric perceptions of the world we inhabit. 
 
