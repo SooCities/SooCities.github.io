@@ -8,6 +8,6 @@ SOUNDS OF OUR CITIES is a CREATIVE Europe cooperation project, based upon resear
 The project begun with an open call that offered a residence to 10 artists (5 to Roeselare and 5 in Barcelona). Selected projects were developed within each city’s social context as well as through a residence. Within the framework of SoOC, various mediation activities are taking place throughout the chosen locations, and two exhibitions held in each city:
 
 - ROESELARE 22-30.10.21 (O.L. Vrouwemarkt, 30 )
-- BARCELONA 11-21.11.21 (Gran de Sant Andreu, 111)
+- [BARCELONA](https://www.idensitat.net/es/proyectos-en-proceso/sounds-of-our-cities-3/1630-sounds-of-our-cities-exposiciones) 11-21.11.21 (Gran de Sant Andreu, 111)
 
 Download the [exhibition catalog (PDF, 5.1 MB)](/assets/images/RSL-booklet-PDFA.pdf), or enter to the digital exhibition through the cartopological maps of the two cities below. 
