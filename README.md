@@ -1,4 +1,3 @@
-
 Welcome to the ever-evolving, developer-led digital catalog of the Sound of our Cities project.
 # Introduction
  One of the objectives of the project is technology transfer. AAU has made a template for showcasing the SooC sound works, and deployed the works online with a CC-License on [GitHub](https://github.com/): a web-based platform for version control using `git`. You can think Github also as a social media for developers: users can collaborate on or adopt open-source projects, fork code, share ideas and more. Here, you can maintain, extend, augment your project after the SooC lifetime. It is also easy and free to set-up a GitHub account and host your own portfolio using [GitHub-pages](http://thejackalofjavascript.com/github-pages-free-hosting/).
@@ -30,7 +29,7 @@ Simple prerequisite for these are:
     -   walk through the [Developer Instructions at the SooC Wiki](https://github.com/SooCities/SooCities.github.io/wiki/Developer-Instructions) for future contributions.
 
 # Embed Media
-Check [](embed-media.md).
+Check [the docs](https://cerkut.github.io/).
 
 # Make your own portfolio
 
