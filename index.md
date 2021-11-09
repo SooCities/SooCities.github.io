@@ -10,4 +10,9 @@ The project begun with an open call that offered a residence to 10 artists (5 to
 - ROESELARE 22-30.10.21 (O.L. Vrouwemarkt, 30 )
 - [BARCELONA](https://www.idensitat.net/es/proyectos-en-proceso/sounds-of-our-cities-3/1630-sounds-of-our-cities-exposiciones) 11-21.11.21 (Gran de Sant Andreu, 111)
 
-Download the [exhibition catalog (PDF, 5.1 MB)](/assets/images/RSL-booklet-PDFA.pdf), or enter to the digital exhibition through the cartopological maps of the two cities below. 
+Enter to the digital exhibition through the cartopological maps of the two cities below, or download the exhibition catalog
+
+- [Catalan / English (PDF, 3.6 MB)](/assets/images/BCN_llibreta_CATALÀ_web.pdf), 
+- [Spanish / English (PDF, 3.6 MB)](/assets/images/BCN_llibreta_ES_web.pdf), 
+- [Dutch / English (PDF, 5.1 MB)](/assets/images/RSL-booklet-PDFA.pdf).
+shell
