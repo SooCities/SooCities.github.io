@@ -15,4 +15,4 @@ Enter to the digital exhibition through the cartopological maps of the two citie
 - [Catalan / English (PDF, 3.6 MB)](/assets/images/BCN_llibreta_CATALÀ_web.pdf), 
 - [Spanish / English (PDF, 3.6 MB)](/assets/images/BCN_llibreta_ES_web.pdf), 
 - [Dutch / English (PDF, 5.1 MB)](/assets/images/RSL-booklet-PDFA.pdf).
-shell
+

@@ -16,7 +16,18 @@ The starting point of the workshop was to ask ourselves how we listen to a place
 
 Eleven participants were chosen in an open call, and a group of artists and social workers was created. During these three weeks they explored and experienced a sonic connection between space, the body, presence and the technology for creating new sounds through experimentation. 
 
+<!-- https://issuu.com/{username}/docs/{documentname} -->
+<!-- https://issuu.com/nataliadomingueztorres/docs/final_transound_publicationnewlink -->
+
+<!-- <iframe allowfullscreen allow="fullscreen" style="border:none;width:100%;height:326px;" src="//e.issuu.com/embed.html?backgroundColor=%23ebb88a&backgroundColorFullscreen=%23ebb88a&d=final_transound_publicationnewlink&hideIssuuLogo=truee&hideShareButton=true&pageNumber=0&u=nataliadomingueztorres"></iframe> -->
+
+<iframe style="border: 0; width: 100%; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=1186956079/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://heariam1.bandcamp.com/album/hear-i-am">Hear I am</a></iframe>
+
+You can read the accompanying text at [issuu.com](https://issuu.com/nataliadomingueztorres/docs/final_transound_publicationnewlink "Publication at issuu")
+
+-------------------------------------------------------------------------------
 
 **Bio**
+
 Iranian, born in Brussels, sound explorer. Her main focus is the movement of sound, body and space. She develops experimental approaches towards a spatial practice of sound. Sonic states as a potential mechanism to connect the social to the physical space in order to reject aesthetic conformity. Questioning the place of the body in the lived environment , and  finding out ways to cultivate community with a shared and dynamic understanding of space and presence. She explores places and situations in order to activate unknown terrains in the sensorial common space by designing site specific strategies. 
 
