@@ -29,7 +29,7 @@ Simple prerequisite for these are:
     -   walk through the [Developer Instructions at the SooC Wiki](https://github.com/SooCities/SooCities.github.io/wiki/Developer-Instructions) for future contributions.
 
 # Embed Media
-Check [the docs](https://cerkut.github.io/).
+Check [the media guide](media.md).
 
 # Make your own portfolio
 
